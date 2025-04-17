@@ -1,7 +1,7 @@
-# Signal-Processing
-Working and tinkering on some **Signal Processing** stuff using Python.
+# Advanced Time Series Prediction
+Learning Time Series analysis using Python.
 
 ---
-This repository contains fundamental signal processing operations and tools:
+Topics 
+-
 
--FFT
