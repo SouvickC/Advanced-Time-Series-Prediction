@@ -1,5 +1,5 @@
 # Advanced Time Series Prediction
-This project explores Time Series data using both traditional statistical preprocessing techniques and advanced deep learning models. The primary focus is on anomaly detection and future value prediction using real-world datasets.
+The project explores Time Series data using both traditional statistical preprocessing techniques and advanced deep learning models. The primary focus is on anomaly detection and future value prediction using real-world datasets.
 
 ---
 Topics 
@@ -11,5 +11,7 @@ Topics
 Learning From
 - https://www.youtube.com/playlist?list=PLKmQjl_R9bYd32uHImJxQSFZU5LPuXfQe
 - https://github.com/egorhowell/Youtube/tree/main/Time-Series-Crash-Course
+- https://youtu.be/4FmVIpcwl4k?si=PXf6Y37mHPNEIYrL
+- https://youtu.be/S31E-ftRfQI?si=0F_zjRvIy8BiiSdp
 
 Contributions and suggestions are welcome!
